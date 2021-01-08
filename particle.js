@@ -39,7 +39,7 @@ class Particle
             
             if (closest)
             {
-                ctx.strokeStyle = "#ffffff88";
+                ctx.strokeStyle = "#ffffff33";
                 ctx.lineWidth = 4;
                 ctx.beginPath();
                 ctx.moveTo(this.pos.x,this.pos.y);
